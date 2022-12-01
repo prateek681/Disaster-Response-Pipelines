@@ -2,7 +2,10 @@
 
 ## Project Description
 
-## Requirements
+This a multi-label classification project, where a model is built to classify messages which are sent during disasters. There are a given set of categories such as Medical Help, Search and Rescue, Food, from which the message input by the user will be categorized. The main aim of the project is to replicate an emergency system, where the Disasters in form of messages from users are categorized. 
+
+### Data Source
+The Data was provided by [Appen](https://www.figure-eight.com/), which contains real-world disaster data. 
 
 ## Folder Descriptions
 * App: This folder includes the run.py and the templates used for the web application
@@ -35,9 +38,8 @@ The following images show the working of the Web Application
 
 ### Training Dataset Overview
 
+![Application Images](https://github.com/prateek681/Disaster-Response-Pipelines/blob/main/Screenshot-2.jpg)
 
 ### Distribution of Categories in the Dataset
 
-
-## Licensing and Acknowledgments
-
+![Application Images](https://github.com/prateek681/Disaster-Response-Pipelines/blob/main/Screenshot-3.jpg)
